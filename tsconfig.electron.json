@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "outDir": "build"
+  },
+  "include": ["main/**/*"],
+  "exclude": ["node_modules/**/*", "**/*.spec.ts", "src"]
+}
